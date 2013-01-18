@@ -15,7 +15,7 @@ public class AI {
     public static void main(String[] args) {
         try
         {
-        	System.out.println();
+        	System.out.println("Hello");
             int min=4;
             int minr=0;
             int minc=0;
